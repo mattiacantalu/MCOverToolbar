@@ -1,7 +1,7 @@
 # MCOverToolbar
-Create a `UIToolbar` over `UITabbar` (like File, Photos, WhatsApp and more).
+Reproduced `UIToolbar` over `UITabbar` effect (like File, Photos, WhatsApp and more).
 
-Effects implemented: 
+Animations implemented: 
 1. fade in/out
 2. move up/down
 3. no animation.
